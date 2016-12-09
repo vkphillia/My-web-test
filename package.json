@@ -11,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkphillia/My-web-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vkphillia/My-web-test/issues"
+  },
+  "homepage": "https://github.com/vkphillia/My-web-test#readme"
 }
