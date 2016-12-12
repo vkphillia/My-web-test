@@ -3,7 +3,7 @@
 /* ------------------ The countdown settings --------------------------------- */
 // Formate of date: MOUNTH DAY, YEAR HOURS:MINUTES:SECONDS
 // time to count down to
-var end_date = 'January, 1 2017 12:00:00';
+var end_date = 'January, 1 2017 00:00:00';
 
 // Target time in Los Angeles, USA (GMT -08:00): 
 // If timezone is left at null it defaults to the timezone on the client.
