@@ -21,4 +21,4 @@ app.get('/', (request, response) => {
   response.render('home')
 })
 
-app.listen(3000)  
+app.listen(process.env.PORT || 3000)  
